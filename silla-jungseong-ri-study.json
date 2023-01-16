@@ -1,0 +1,5245 @@
+{
+  "monument": {
+    "name": {
+      "ko": "포항 중성리 신라비",
+      "en": "Sillabi Monument in Jungseong-ri, Pohang",
+      "cn": "浦項 中城里 新羅碑"
+    },
+    "inscription": {
+      "image": "",
+      "text": [
+        {
+          "id": 1,
+          "line": 1,
+          "order": 1,
+          "character": "辛",
+          "sound": "신",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 2,
+          "line": 1,
+          "order": 2,
+          "character": "巳",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 3,
+          "line": 1,
+          "order": 3,
+          "character": "□",
+          "sound": "",
+          "status": "파손",
+          "desc": "3글자 혹은 2글자로 추정하는데, 2글자분 파손으로 판단했다."
+        },
+        {
+          "id": 4,
+          "line": 1,
+          "order": 4,
+          "character": "□",
+          "sound": "",
+          "status": "파손",
+          "desc": ""
+        },
+        {
+          "id": 5,
+          "line": 1,
+          "order": 5,
+          "character": "中",
+          "sound": "중",
+          "status": "",
+          "desc": "只, 中으로 견해가 나뉘지만 中으로 확정했다."
+        },
+        {
+          "id": 6,
+          "line": 1,
+          "order": 6,
+          "character": "折",
+          "sound": "절",
+          "status": "",
+          "desc": "折로 확정했다"
+        },
+        {
+          "id": 7,
+          "line": 1,
+          "order": 7,
+          "character": "盧",
+          "sound": "로",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 8,
+          "line": 1,
+          "order": 8,
+          "character": "䒑",
+          "sound": "",
+          "status": "판단유보",
+          "desc": ""
+        },
+        {
+          "id": 9,
+          "line": 2,
+          "order": 1,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 10,
+          "line": 2,
+          "order": 2,
+          "character": "部",
+          "sound": "부",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 11,
+          "line": 2,
+          "order": 3,
+          "character": "習",
+          "sound": "습",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 12,
+          "line": 2,
+          "order": 4,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 13,
+          "line": 2,
+          "order": 5,
+          "character": "阿",
+          "sound": "아",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 14,
+          "line": 2,
+          "order": 6,
+          "character": "干",
+          "sound": "간",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 15,
+          "line": 2,
+          "order": 7,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 16,
+          "line": 2,
+          "order": 8,
+          "character": "沙",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 17,
+          "line": 2,
+          "order": 9,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 18,
+          "line": 2,
+          "order": 10,
+          "character": "斯",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 19,
+          "line": 2,
+          "order": 11,
+          "character": "德",
+          "sound": "덕",
+          "status": "",
+          "desc": "德 또는 불명자로 견해가 나뉘지만 德으로 확정했다. "
+        },
+        {
+          "id": 20,
+          "line": 2,
+          "order": 12,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 21,
+          "line": 2,
+          "order": 13,
+          "character": "阿",
+          "sound": "아",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 22,
+          "line": 2,
+          "order": 14,
+          "character": "干",
+          "sound": "간",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 23,
+          "line": 2,
+          "order": 15,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 24,
+          "line": 3,
+          "order": 1,
+          "character": "敎",
+          "sound": "교",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 25,
+          "line": 3,
+          "order": 2,
+          "character": "沙",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 26,
+          "line": 3,
+          "order": 3,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 27,
+          "line": 3,
+          "order": 4,
+          "character": "尒",
+          "sound": "이",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 28,
+          "line": 3,
+          "order": 5,
+          "character": "抽",
+          "sound": "추",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 29,
+          "line": 3,
+          "order": 6,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 30,
+          "line": 3,
+          "order": 7,
+          "character": "奈",
+          "sound": "나",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 31,
+          "line": 3,
+          "order": 8,
+          "character": "麻",
+          "sound": "마",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 32,
+          "line": 3,
+          "order": 9,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 33,
+          "line": 3,
+          "order": 10,
+          "character": "部",
+          "sound": "부",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 34,
+          "line": 3,
+          "order": 11,
+          "character": "卒",
+          "sound": "졸",
+          "status": "",
+          "desc": "卒의 이체자이다. 타이완 교육부 異體字 字典에서 확인된다."
+        },
+        {
+          "id": 35,
+          "line": 3,
+          "order": 12,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 36,
+          "line": 3,
+          "order": 13,
+          "character": "奈",
+          "sound": "나",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 37,
+          "line": 3,
+          "order": 14,
+          "character": "麻",
+          "sound": "마",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 38,
+          "line": 3,
+          "order": 15,
+          "character": "夲",
+          "sound": "본",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 39,
+          "line": 3,
+          "order": 16,
+          "character": "牟",
+          "sound": "모",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 40,
+          "line": 3,
+          "order": 17,
+          "character": "子",
+          "sound": "자",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 41,
+          "line": 4,
+          "order": 1,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 42,
+          "line": 4,
+          "order": 2,
+          "character": "沙",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 43,
+          "line": 4,
+          "order": 3,
+          "character": "利",
+          "sound": "리",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 44,
+          "line": 4,
+          "order": 4,
+          "character": "夷",
+          "sound": "이",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 45,
+          "line": 4,
+          "order": 5,
+          "character": "斯",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 46,
+          "line": 4,
+          "order": 6,
+          "character": "利",
+          "sound": "리",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 47,
+          "line": 4,
+          "order": 7,
+          "character": "白",
+          "sound": "백",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 48,
+          "line": 4,
+          "order": 8,
+          "character": "爭",
+          "sound": "쟁",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 49,
+          "line": 4,
+          "order": 9,
+          "character": "人",
+          "sound": "인",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 50,
+          "line": 4,
+          "order": 10,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 51,
+          "line": 4,
+          "order": 11,
+          "character": "評",
+          "sound": "평",
+          "status": "",
+          "desc": "評으로 확정했다. 디지털 이미지 분석 결과 좌변 아래는 자획이 아니며, 출토 당시 가운데부분이 굴삭기에 세로로 긁힐 때 생긴 흠집이다. "
+        },
+        {
+          "id": 52,
+          "line": 4,
+          "order": 12,
+          "character": "公",
+          "sound": "공",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 53,
+          "line": 4,
+          "order": 13,
+          "character": "斯",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 54,
+          "line": 4,
+          "order": 14,
+          "character": "弥",
+          "sound": "미",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 55,
+          "line": 4,
+          "order": 15,
+          "character": "沙",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 56,
+          "line": 4,
+          "order": 16,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 57,
+          "line": 4,
+          "order": 17,
+          "character": "夷",
+          "sound": "이",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 58,
+          "line": 4,
+          "order": 18,
+          "character": "須",
+          "sound": "수",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 59,
+          "line": 4,
+          "order": 19,
+          "character": "牟",
+          "sound": "모",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 60,
+          "line": 4,
+          "order": 20,
+          "character": "旦",
+          "sound": "단",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 61,
+          "line": 5,
+          "order": 1,
+          "character": "伐",
+          "sound": "벌",
+          "status": "",
+          "desc": "아래쪽의 남은 획으로 伐로 판독했다."
+        },
+        {
+          "id": 62,
+          "line": 5,
+          "order": 2,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 63,
+          "line": 5,
+          "order": 3,
+          "character": "斯",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 64,
+          "line": 5,
+          "order": 4,
+          "character": "利",
+          "sound": "리",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 65,
+          "line": 5,
+          "order": 5,
+          "character": "壹",
+          "sound": "일",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 66,
+          "line": 5,
+          "order": 6,
+          "character": "伐",
+          "sound": "벌",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 67,
+          "line": 5,
+          "order": 7,
+          "character": "皮",
+          "sound": "피",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 68,
+          "line": 5,
+          "order": 8,
+          "character": "朱",
+          "sound": "주",
+          "status": "",
+          "desc": "末, 朱로 견해가 나뉘지만 朱로 확정했다."
+        },
+        {
+          "id": 69,
+          "line": 5,
+          "order": 9,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 70,
+          "line": 5,
+          "order": 10,
+          "character": "夲",
+          "sound": "본",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 71,
+          "line": 5,
+          "order": 11,
+          "character": "波",
+          "sound": "파",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 72,
+          "line": 5,
+          "order": 12,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 73,
+          "line": 5,
+          "order": 13,
+          "character": "柴",
+          "sound": "시",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 74,
+          "line": 5,
+          "order": 14,
+          "character": "干",
+          "sound": "간",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 75,
+          "line": 5,
+          "order": 15,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 76,
+          "line": 5,
+          "order": 16,
+          "character": "弗",
+          "sound": "불",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 77,
+          "line": 5,
+          "order": 17,
+          "character": "乃",
+          "sound": "내",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 78,
+          "line": 5,
+          "order": 18,
+          "character": "壹",
+          "sound": "일",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 79,
+          "line": 5,
+          "order": 19,
+          "character": "伐",
+          "sound": "벌",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 80,
+          "line": 5,
+          "order": 20,
+          "character": "金",
+          "sound": "금",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 81,
+          "line": 5,
+          "order": 21,
+          "character": "評",
+          "sound": "평",
+          "status": "",
+          "desc": "泙으로 보는 견해도 있으나 評으로 확정했다."
+        },
+        {
+          "id": 82,
+          "line": 6,
+          "order": 1,
+          "character": "□",
+          "sound": "",
+          "status": "판독불가",
+          "desc": "沙로 추정한 견해도 있지만 □ 처리했다. 2글자가 있었을 여지도 배제하기 어렵다."
+        },
+        {
+          "id": 83,
+          "line": 6,
+          "order": 2,
+          "character": "干",
+          "sound": "간",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 84,
+          "line": 6,
+          "order": 3,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 85,
+          "line": 6,
+          "order": 4,
+          "character": "祭",
+          "sound": "제",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 86,
+          "line": 6,
+          "order": 5,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 87,
+          "line": 6,
+          "order": 6,
+          "character": "壹",
+          "sound": "일",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 88,
+          "line": 6,
+          "order": 7,
+          "character": "伐",
+          "sound": "벌",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 89,
+          "line": 6,
+          "order": 8,
+          "character": "使",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 90,
+          "line": 6,
+          "order": 9,
+          "character": "人",
+          "sound": "인",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 91,
+          "line": 6,
+          "order": 10,
+          "character": "奈",
+          "sound": "나",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 92,
+          "line": 6,
+          "order": 11,
+          "character": "蘓",
+          "sound": "소",
+          "status": "",
+          "desc": "蘇의 艹 아래 魚와 禾를 바꾸어 썼다. 냉수리비에도 같은 글꼴이 있다."
+        },
+        {
+          "id": 93,
+          "line": 6,
+          "order": 12,
+          "character": "毒",
+          "sound": "독",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 94,
+          "line": 6,
+          "order": 13,
+          "character": "只",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 95,
+          "line": 6,
+          "order": 14,
+          "character": "道",
+          "sound": "도",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 96,
+          "line": 6,
+          "order": 15,
+          "character": "使",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 97,
+          "line": 6,
+          "order": 16,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 98,
+          "line": 6,
+          "order": 17,
+          "character": "念",
+          "sound": "염",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 99,
+          "line": 6,
+          "order": 18,
+          "character": "牟",
+          "sound": "모",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 100,
+          "line": 6,
+          "order": 19,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 101,
+          "line": 6,
+          "order": 20,
+          "character": "沙",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 102,
+          "line": 7,
+          "order": 1,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": "윗부분이 손상된 喙이다. "
+        },
+        {
+          "id": 103,
+          "line": 7,
+          "order": 2,
+          "character": "鄒",
+          "sound": "추",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 104,
+          "line": 7,
+          "order": 3,
+          "character": "須",
+          "sound": "수",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 105,
+          "line": 7,
+          "order": 4,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 106,
+          "line": 7,
+          "order": 5,
+          "character": "世",
+          "sound": "세",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 107,
+          "line": 7,
+          "order": 6,
+          "character": "令",
+          "sound": "령",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 108,
+          "line": 7,
+          "order": 7,
+          "character": "干",
+          "sound": "간",
+          "status": "",
+          "desc": "干, 于로 견해가 나뉜다. 세로획 끝을 왼쪽으로 삐치지 않고 오른쪽으로 삐쳐 쓴 于일 여지가 있다. 디지털 이미지 분석 결과 맨 아래의 점은 획이 아닐 가능성이 높다. "
+        },
+        {
+          "id": 109,
+          "line": 7,
+          "order": 8,
+          "character": "居",
+          "sound": "거",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 110,
+          "line": 7,
+          "order": 9,
+          "character": "伐",
+          "sound": "벌",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 111,
+          "line": 7,
+          "order": 10,
+          "character": "壹",
+          "sound": "일",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 112,
+          "line": 7,
+          "order": 11,
+          "character": "斯",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 113,
+          "line": 7,
+          "order": 12,
+          "character": "利",
+          "sound": "리",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 114,
+          "line": 7,
+          "order": 13,
+          "character": "蘓",
+          "sound": "소",
+          "status": "",
+          "desc": "蘇의 艹 아래 魚와 禾를 바꾸어 썼다. 냉수리비에도 같은 글꼴이 있다."
+        },
+        {
+          "id": 115,
+          "line": 7,
+          "order": 14,
+          "character": "豆",
+          "sound": "두",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 116,
+          "line": 7,
+          "order": 15,
+          "character": "古",
+          "sound": "고",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 117,
+          "line": 7,
+          "order": 16,
+          "character": "利",
+          "sound": "리",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 118,
+          "line": 7,
+          "order": 17,
+          "character": "村",
+          "sound": "촌",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 119,
+          "line": 7,
+          "order": 18,
+          "character": "仇",
+          "sound": "구",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 120,
+          "line": 7,
+          "order": 19,
+          "character": "鄒",
+          "sound": "추",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 121,
+          "line": 7,
+          "order": 20,
+          "character": "列",
+          "sound": "열",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 122,
+          "line": 7,
+          "order": 21,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 123,
+          "line": 8,
+          "order": 1,
+          "character": "干",
+          "sound": "간",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 124,
+          "line": 8,
+          "order": 2,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 125,
+          "line": 8,
+          "order": 3,
+          "character": "沸",
+          "sound": "비",
+          "status": "",
+          "desc": "沸, 比로 견해가 나뉘지만 沸로 확정했다. "
+        },
+        {
+          "id": 126,
+          "line": 8,
+          "order": 4,
+          "character": "竹",
+          "sound": "죽",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 127,
+          "line": 8,
+          "order": 5,
+          "character": "休",
+          "sound": "휴",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 128,
+          "line": 8,
+          "order": 6,
+          "character": "壹",
+          "sound": "일",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 129,
+          "line": 8,
+          "order": 7,
+          "character": "金",
+          "sound": "금",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 130,
+          "line": 8,
+          "order": 8,
+          "character": "知",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 131,
+          "line": 8,
+          "order": 9,
+          "character": "那",
+          "sound": "나",
+          "status": "",
+          "desc": "글꼴은 舟巳(= 舧,舤, 배 범)이지만 那의 異體이기도 하다. 냉수리비에도 같은 글자가 있어 소리값을 감안하여 那로 판독했다. "
+        },
+        {
+          "id": 132,
+          "line": 8,
+          "order": 10,
+          "character": "音",
+          "sound": "음",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 133,
+          "line": 8,
+          "order": 11,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 134,
+          "line": 8,
+          "order": 12,
+          "character": "村",
+          "sound": "촌",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 135,
+          "line": 8,
+          "order": 13,
+          "character": "卜",
+          "sound": "복",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 136,
+          "line": 8,
+          "order": 14,
+          "character": "□",
+          "sound": "",
+          "status": "판단유보",
+          "desc": "글꼴만 제시하고 판단을 유보했다."
+        },
+        {
+          "id": 137,
+          "line": 8,
+          "order": 15,
+          "character": "干",
+          "sound": "간",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 138,
+          "line": 8,
+          "order": 16,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 139,
+          "line": 8,
+          "order": 17,
+          "character": "乞",
+          "sound": "걸",
+          "status": "",
+          "desc": "乞의 異體이다. 성산산성 목간 NO.226(김해1269)에도 비슷한 글꼴이 있다"
+        },
+        {
+          "id": 140,
+          "line": 8,
+          "order": 18,
+          "character": "斤",
+          "sound": "근",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 141,
+          "line": 8,
+          "order": 19,
+          "character": "壹",
+          "sound": "일",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 142,
+          "line": 8,
+          "order": 20,
+          "character": "金",
+          "sound": "금",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 143,
+          "line": 8,
+          "order": 21,
+          "character": "知",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 144,
+          "line": 9,
+          "order": 1,
+          "character": "珍",
+          "sound": "진",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 145,
+          "line": 9,
+          "order": 2,
+          "character": "伐",
+          "sound": "벌",
+          "status": "",
+          "desc": "획에 해당할 듯한 흠집이 있지만 5-6자 伐, 5-19자 伐과 가까운 글꼴이어서 伐로 판독했다."
+        },
+        {
+          "id": 146,
+          "line": 9,
+          "order": 3,
+          "character": "壹",
+          "sound": "일",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 147,
+          "line": 9,
+          "order": 4,
+          "character": "□",
+          "sound": "",
+          "status": "판단유보",
+          "desc": "書, 普, 晉 등으로 견해가 나뉘지만 판단을 유보했다."
+        },
+        {
+          "id": 148,
+          "line": 9,
+          "order": 5,
+          "character": "云",
+          "sound": "운",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 149,
+          "line": 9,
+          "order": 6,
+          "character": "豆",
+          "sound": "두",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 150,
+          "line": 9,
+          "order": 7,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 151,
+          "line": 9,
+          "order": 8,
+          "character": "沙",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 152,
+          "line": 9,
+          "order": 9,
+          "character": "干",
+          "sound": "간",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 153,
+          "line": 9,
+          "order": 10,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 154,
+          "line": 9,
+          "order": 11,
+          "character": "宮",
+          "sound": "궁",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 155,
+          "line": 9,
+          "order": 12,
+          "character": "日",
+          "sound": "일",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 156,
+          "line": 9,
+          "order": 13,
+          "character": "夫",
+          "sound": "부",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 157,
+          "line": 9,
+          "order": 14,
+          "character": "智",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 158,
+          "line": 9,
+          "order": 15,
+          "character": "宮",
+          "sound": "궁",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 159,
+          "line": 9,
+          "order": 16,
+          "character": "奪",
+          "sound": "탈",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 160,
+          "line": 9,
+          "order": 17,
+          "character": "尒",
+          "sound": "이",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 161,
+          "line": 9,
+          "order": 18,
+          "character": "今",
+          "sound": "금",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 162,
+          "line": 9,
+          "order": 19,
+          "character": "更",
+          "sound": "경/갱",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 163,
+          "line": 9,
+          "order": 20,
+          "character": "還",
+          "sound": "환",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 164,
+          "line": 10,
+          "order": 1,
+          "character": "牟",
+          "sound": "모",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 165,
+          "line": 10,
+          "order": 2,
+          "character": "旦",
+          "sound": "단",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 166,
+          "line": 10,
+          "order": 3,
+          "character": "伐",
+          "sound": "벌",
+          "status": "",
+          "desc": "代에 가까운 자획이지만 牟旦伐이라는 동일 지명임을 감안하면 伐로 판독된다."
+        },
+        {
+          "id": 167,
+          "line": 10,
+          "order": 4,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 168,
+          "line": 10,
+          "order": 5,
+          "character": "作",
+          "sound": "작",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 169,
+          "line": 10,
+          "order": 6,
+          "character": "民",
+          "sound": "민",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 170,
+          "line": 10,
+          "order": 7,
+          "character": "沙",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 171,
+          "line": 10,
+          "order": 8,
+          "character": "干",
+          "sound": "간",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 172,
+          "line": 10,
+          "order": 9,
+          "character": "支",
+          "sound": "지",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 173,
+          "line": 10,
+          "order": 10,
+          "character": "使",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 174,
+          "line": 10,
+          "order": 11,
+          "character": "人",
+          "sound": "인",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 175,
+          "line": 10,
+          "order": 12,
+          "character": "果",
+          "sound": "과",
+          "status": "",
+          "desc": "卑, 果 등으로 견해가 나뉘지만 果로 확정했다. "
+        },
+        {
+          "id": 176,
+          "line": 10,
+          "order": 13,
+          "character": "西",
+          "sound": "서",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 177,
+          "line": 10,
+          "order": 14,
+          "character": "牟",
+          "sound": "모",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 178,
+          "line": 10,
+          "order": 15,
+          "character": "利",
+          "sound": "리",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 179,
+          "line": 10,
+          "order": 16,
+          "character": "白",
+          "sound": "백",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 180,
+          "line": 10,
+          "order": 17,
+          "character": "口",
+          "sound": "구",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 181,
+          "line": 10,
+          "order": 18,
+          "character": "若",
+          "sound": "약",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 182,
+          "line": 10,
+          "order": 19,
+          "character": "後",
+          "sound": "후",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 183,
+          "line": 10,
+          "order": 20,
+          "character": "世",
+          "sound": "세",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 184,
+          "line": 10,
+          "order": 21,
+          "character": "更",
+          "sound": "경/갱",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 185,
+          "line": 11,
+          "order": 1,
+          "character": "噵",
+          "sound": "도",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 186,
+          "line": 11,
+          "order": 2,
+          "character": "人",
+          "sound": "인",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 187,
+          "line": 11,
+          "order": 3,
+          "character": "者",
+          "sound": "자",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 188,
+          "line": 11,
+          "order": 4,
+          "character": "与",
+          "sound": "여",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 189,
+          "line": 11,
+          "order": 5,
+          "character": "重",
+          "sound": "중",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 190,
+          "line": 11,
+          "order": 6,
+          "character": "罪",
+          "sound": "죄",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 191,
+          "line": 11,
+          "order": 7,
+          "character": "典",
+          "sound": "전",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 192,
+          "line": 11,
+          "order": 8,
+          "character": "書",
+          "sound": "서",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 193,
+          "line": 11,
+          "order": 9,
+          "character": "与",
+          "sound": "여",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 194,
+          "line": 11,
+          "order": 10,
+          "character": "牟",
+          "sound": "모",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 195,
+          "line": 11,
+          "order": 11,
+          "character": "豆",
+          "sound": "두",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 196,
+          "line": 11,
+          "order": 12,
+          "character": "故",
+          "sound": "고",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 197,
+          "line": 11,
+          "order": 13,
+          "character": "記",
+          "sound": "기",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 198,
+          "line": 12,
+          "order": 1,
+          "character": "沙",
+          "sound": "사",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 199,
+          "line": 12,
+          "order": 2,
+          "character": "喙",
+          "sound": "훼",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 200,
+          "line": 12,
+          "order": 3,
+          "character": "心",
+          "sound": "심",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 201,
+          "line": 12,
+          "order": 4,
+          "character": "刀",
+          "sound": "도",
+          "status": "",
+          "desc": ""
+        },
+        {
+          "id": 202,
+          "line": 12,
+          "order": 5,
+          "character": "哩",
+          "sound": "리",
+          "status": "",
+          "desc": "里, 哩로 견해가 나뉘지만 哩로 확정했다. "
+        },
+        {
+          "id": 203,
+          "line": 12,
+          "order": 6,
+          "character": "口",
+          "sound": "구",
+          "status": "",
+          "desc": "여러 견해가 나뉘지만 口로 확정했다. "
+        }
+      ]
+    }
+  },
+  "studies": [
+    {
+      "articles": [
+        {
+          "author": "이우태",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "8": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "34": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "68": {
+            "character": "末",
+            "sound": "말",
+            "meaning": "끝",
+            "desc": ""
+          },
+          "82": {
+            "character": "沙",
+            "sound": "사",
+            "meaning": "모래",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "202": {
+            "character": "里",
+            "sound": "리",
+            "meaning": "마을",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "37": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "143": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "203": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "선석열",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "年 으로 추정"
+          },
+          "4": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "□月 이었을 것. 파손된 부분이 3글자 였을 것"
+          },
+          "5": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": "中 으로 생각. 즉 \"신사년 모월 중\" 일 것"
+          },
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "34": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "68": {
+            "character": "末",
+            "sound": "말",
+            "meaning": "끝",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "202": {
+            "character": "里",
+            "sound": "리",
+            "meaning": "마을",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "37": {
+            "type": "고리점"
+          },
+          "94": {
+            "type": "고리점"
+          },
+          "146": {
+            "type": "고리점"
+          },
+          "160": {
+            "type": "고리점"
+          },
+          "166": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "203": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "고광의",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "年 으로 추정"
+          },
+          "4": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "□月 이었을 것. 파손된 부분이 3글자 였을 것"
+          },
+          "5": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "中 으로 생각. 즉 \"신사년 모월 중\" 일 것"
+          },
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "19": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "德인지 확실치 않다"
+          },
+          "34": {
+            "character": "牟",
+            "sound": "모",
+            "meaning": "소 우는 소리",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": "岳 인지 확실치 않다"
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "書",
+            "sound": "서",
+            "meaning": "글",
+            "desc": "書 인지 확실치 않다"
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "203": {
+            "character": "占",
+            "sound": "점",
+            "meaning": "점령할",
+            "desc": "占 인지 확실치 않다"
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "94": {
+            "type": "고리점"
+          },
+          "172": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "197": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "이문기",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "4": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "파손된 부분이 3글자 였을 것"
+          },
+          "19": {
+            "character": "使",
+            "sound": "사",
+            "meaning": "하여금",
+            "desc": "德 일 가능성이 더 크나, 使로도 판독할 수 있다"
+          },
+          "34": {
+            "character": "牟",
+            "sound": "모",
+            "meaning": "소 우는 소리",
+            "desc": "卒 일 가능성이 더 크나, 牟로도 판독할 수 있다"
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "39": {
+            "character": "至",
+            "sound": "지",
+            "meaning": "이를",
+            "desc": "牟 일 가능성이 더 크나, 至로도 판독할 수 있다."
+          },
+          "68": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "140": {
+            "character": "介",
+            "sound": "개",
+            "meaning": "낄",
+            "desc": ""
+          },
+          "147": {
+            "character": "普",
+            "sound": "보",
+            "meaning": "넓을",
+            "desc": ""
+          },
+          "203": {
+            "character": "了",
+            "sound": "료",
+            "meaning": "마칠",
+            "desc": "了 인지 확실치 않다"
+          }
+        },
+        "punctuation": {
+          "37": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "147": {
+            "type": "고리점"
+          },
+          "169": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "203": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "전덕재",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "몇 글자가 있었는지 알 수 없으나, 年이 나오거나, 이어서 沙喙 였을 가능성이 있다. (지증왕으로 해석할 때)"
+          },
+          "5": {
+            "character": "只",
+            "sound": "지",
+            "meaning": "다만",
+            "desc": "中으로 보기에는 가운데 획이 이어지지 않음. 只로 판독하면 지절로왕(지증왕)으로 해석 가능하다"
+          },
+          "8": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "䒑 는 葛 의 일부였을 것. 그러면 이후 葛文王이 있었을 가능성이 있다"
+          },
+          "34": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "52": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "公 인지 판독이 확실치 않다"
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "于로 보이지만 문맥상 干이 자연스럽다"
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "步",
+            "sound": "보",
+            "meaning": "걸음",
+            "desc": "岳으로도 판독할 수 있다"
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": "판독이 확실치 않다"
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "朞",
+            "sound": "기",
+            "meaning": "돌",
+            "desc": "曹(무리 조)도 가능하다"
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "188": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "193": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "143": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "강종훈",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "4": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "파손된 부분이 3글자 였을 것"
+          },
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": "판독이 확실치 않다"
+          },
+          "19": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "34": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "37": {
+            "type": "고리점"
+          },
+          "61": {
+            "type": "고리점"
+          },
+          "90": {
+            "type": "고리점"
+          },
+          "143": {
+            "type": "고리점"
+          },
+          "166": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "이영호",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "5": {
+            "character": "只",
+            "sound": "지",
+            "meaning": "다만",
+            "desc": ""
+          },
+          "8": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "䒑 는 葛 의 일부였을 것"
+          },
+          "34": {
+            "character": "牟",
+            "sound": "모",
+            "meaning": "소 우는 소리",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "130": {
+            "character": "智",
+            "sound": "지",
+            "meaning": "슬기",
+            "desc": "논문 원문 검증 필요"
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "37": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "169": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "김희만",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "4": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "파손된 부분이 3글자 였을 것"
+          },
+          "5": {
+            "character": "只",
+            "sound": "지",
+            "meaning": "다만",
+            "desc": ""
+          },
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "34": {
+            "character": "夲",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "82": {
+            "character": "沙",
+            "sound": "사",
+            "meaning": "모래",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "130": {
+            "character": "智",
+            "sound": "지",
+            "meaning": "슬기",
+            "desc": "논문 원문 검증 필요"
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "140": {
+            "character": "介",
+            "sound": "개",
+            "meaning": "낄",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "37": {
+            "type": "고리점"
+          },
+          "82": {
+            "type": "의미상 추정"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "166": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "노중국",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "4": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "파손된 부분이 3글자 였을 것"
+          },
+          "8": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "아래 더 많은 글자들이 있었을 것"
+          },
+          "19": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "34": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "125": {
+            "character": "比",
+            "sound": "비",
+            "meaning": "견줄",
+            "desc": ""
+          },
+          "130": {
+            "character": "智",
+            "sound": "지",
+            "meaning": "슬기",
+            "desc": "논문 원문 검증 필요"
+          },
+          "131": {
+            "character": "奈",
+            "sound": "나",
+            "meaning": "어찌",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "172": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "197": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "박남수",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "3글자 가능성 있음"
+          },
+          "5": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "6": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "9": {
+            "character": "啄",
+            "sound": "탁",
+            "meaning": "쫄",
+            "desc": "논문 원문 확인 필요"
+          },
+          "60": {
+            "character": "旵",
+            "sound": "참",
+            "meaning": "햇살 비칠",
+            "desc": ""
+          },
+          "71": {
+            "character": "彼",
+            "sound": "피",
+            "meaning": "저",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "平",
+            "sound": "평",
+            "meaning": "평평할",
+            "desc": ""
+          },
+          "140": {
+            "character": "介",
+            "sound": "개",
+            "meaning": "낄",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "晉",
+            "sound": "진",
+            "meaning": "나아갈",
+            "desc": ""
+          },
+          "159": {
+            "character": "等",
+            "sound": "등",
+            "meaning": "무리",
+            "desc": ""
+          },
+          "164": {
+            "character": "至",
+            "sound": "지",
+            "meaning": "이를",
+            "desc": ""
+          },
+          "165": {
+            "character": "且",
+            "sound": "차",
+            "meaning": "또",
+            "desc": ""
+          },
+          "166": {
+            "character": "代",
+            "sound": "대",
+            "meaning": "대신할",
+            "desc": ""
+          },
+          "188": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": "논문 원문 확인 필요. 이것만?"
+          },
+          "203": {
+            "character": "公",
+            "sound": "",
+            "meaning": "",
+            "desc": "판독이 확실치 않음"
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "147": {
+            "type": "고리점"
+          },
+          "164": {
+            "type": "고리점"
+          },
+          "195": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "박성현",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "5": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": "中, 只 가능"
+          },
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "34": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "76": {
+            "character": "佛",
+            "sound": "불",
+            "meaning": "부처",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "102": {
+            "character": "啄",
+            "sound": "탁",
+            "meaning": "쫄",
+            "desc": "논문 원문 확인 필요"
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산 ",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "37": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "169": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "197": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "하시모토 시게루 (橋本 繁) ",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "몇 글자인지 알 수 없음"
+          },
+          "5": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "8": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "27": {
+            "character": "尔",
+            "sound": "이",
+            "meaning": "너",
+            "desc": ""
+          },
+          "34": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "68": {
+            "character": "末",
+            "sound": "말",
+            "meaning": "끝",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "82": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "총 2글자가 있었을 것으로 추정"
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "145": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "148": {
+            "character": "言",
+            "sound": "언",
+            "meaning": "말씀",
+            "desc": ""
+          },
+          "160": {
+            "character": "尔",
+            "sound": "이",
+            "meaning": "너",
+            "desc": ""
+          },
+          "185": {
+            "character": "導",
+            "sound": "도",
+            "meaning": "인도할",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "5": {
+            "type": "고리점"
+          },
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "105": {
+            "type": "고리점"
+          },
+          "145": {
+            "type": "고리점"
+          },
+          "172": {
+            "type": "고리점"
+          },
+          "180": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "197": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "이성시",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "5": {
+            "character": "只",
+            "sound": "지",
+            "meaning": "다만",
+            "desc": ""
+          },
+          "7": {
+            "character": "蘆",
+            "sound": "로",
+            "meaning": "갈대",
+            "desc": ""
+          },
+          "8": {
+            "character": "葛",
+            "sound": "갈",
+            "meaning": "칡",
+            "desc": "이후로 멸실된 여러 글자가 있는 것으로 추정"
+          },
+          "19": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "불분명하나 판독 가능"
+          },
+          "34": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "68": {
+            "character": "末",
+            "sound": "말",
+            "meaning": "끝",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "82": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "총 2글자가 있었을 것으로 추정"
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "123": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "바로 앞에 멸실된 글자가 있었을 것으로 추정"
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "147": {
+            "character": "晋",
+            "sound": "진",
+            "meaning": "나아갈",
+            "desc": "판독이 일정치 않다"
+          },
+          "202": {
+            "character": "里",
+            "sound": "리",
+            "meaning": "마을",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": "마지막 글자가 없는 것으로 봄"
+          }
+        },
+        "punctuation": {}
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "김수태",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "3글자 가능성 있음"
+          },
+          "6": {
+            "character": "斯",
+            "sound": "사",
+            "meaning": "이",
+            "desc": ""
+          },
+          "8": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "이후로 멸실된 여러 글자가 있는 것으로 추정"
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "82": {
+            "character": "丿",
+            "sound": "",
+            "meaning": "",
+            "desc": "삐침은 확인. 글자는 알 수 없다"
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "147": {
+            "character": "普",
+            "sound": "보",
+            "meaning": "넓을",
+            "desc": ""
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          }
+        },
+        "punctuation": {}
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "이용현",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "3글자 가능성 있음"
+          },
+          "5": {
+            "character": "只",
+            "sound": "지",
+            "meaning": "다만",
+            "desc": ""
+          },
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": "이후로 멸실된 여러 글자가 있는 것으로 추정"
+          },
+          "34": {
+            "character": "牟",
+            "sound": "모",
+            "meaning": "소 우는 소리",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "82": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "총 2글자가 있었을 것으로 추정"
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "202": {
+            "character": "里",
+            "sound": "리",
+            "meaning": "마을",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": "마지막 글자가 없는 것으로 봄"
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "105": {
+            "type": "고리점"
+          },
+          "107": {
+            "type": "고리점"
+          },
+          "163": {
+            "type": "고리점"
+          },
+          "180": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "197": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "윤진석",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "3글자 가능성 있음"
+          },
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": "이후로 멸실된 여러 글자가 있는 것으로 추정"
+          },
+          "19": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "34": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "76": {
+            "character": "佛",
+            "sound": "불",
+            "meaning": "부처",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "188": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "193": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "147": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "윤선태",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "3글자 가능성 있음"
+          },
+          "6": {
+            "character": "斯",
+            "sound": "사",
+            "meaning": "이",
+            "desc": ""
+          },
+          "8": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": "이후로 멸실된 여러 글자가 있는 것으로 추정"
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "82": {
+            "character": "丿",
+            "sound": "",
+            "meaning": "",
+            "desc": "삐침은 확인. 글자는 알 수 없다"
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "147": {
+            "character": "普",
+            "sound": "보",
+            "meaning": "넓을",
+            "desc": ""
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "147": {
+            "type": "고리점"
+          },
+          "169": {
+            "type": "고리점"
+          },
+          "179": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "203": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "주보돈",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "5": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "8": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "이후로 멸실된 여러 글자가 있는 것으로 추정"
+          },
+          "19": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "34": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "82": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "총 2글자가 있었을 것으로 추정"
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "125": {
+            "character": "比",
+            "sound": "비",
+            "meaning": "견줄",
+            "desc": ""
+          },
+          "130": {
+            "character": "智",
+            "sound": "지",
+            "meaning": "슬기",
+            "desc": ""
+          },
+          "131": {
+            "character": "奈",
+            "sound": "나",
+            "meaning": "어찌",
+            "desc": ""
+          },
+          "136": {
+            "character": "步",
+            "sound": "보",
+            "meaning": "걸을",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "188": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "147": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "197": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "김창호",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "4": {
+            "character": "月",
+            "sound": "월",
+            "meaning": "달",
+            "desc": "판독할 수 없으나 의미상 추정"
+          },
+          "8": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": "이 글자는 알수 없으나, 바로 다음은 '智王' 일 것"
+          },
+          "27": {
+            "character": "爾",
+            "sound": "이",
+            "meaning": "너",
+            "desc": ""
+          },
+          "34": {
+            "character": "牟",
+            "sound": "모",
+            "meaning": "소 우는 소리",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "54": {
+            "character": "彌",
+            "sound": "미",
+            "meaning": "미륵",
+            "desc": ""
+          },
+          "68": {
+            "character": "末",
+            "sound": "말",
+            "meaning": "끝",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "步",
+            "sound": "보",
+            "meaning": "걸을",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "160": {
+            "character": "爾",
+            "sound": "이",
+            "meaning": "너",
+            "desc": ""
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "188": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "193": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "23": {
+            "type": "고리점"
+          },
+          "166": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "197": {
+            "type": "고리점"
+          },
+          "203": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "이부오",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "5": {
+            "character": "只",
+            "sound": "지",
+            "meaning": "다만",
+            "desc": ""
+          },
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "18": {
+            "character": "沙",
+            "sound": "사",
+            "meaning": "모래",
+            "desc": ""
+          },
+          "34": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "172": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "203": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "이수훈",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "5": {
+            "character": "宁",
+            "sound": "저",
+            "meaning": "뜰",
+            "desc": ""
+          },
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": "바로 다음에 한 글자가 더 있었을 것"
+          },
+          "34": {
+            "character": "夲",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "68": {
+            "character": "末",
+            "sound": "말",
+            "meaning": "끝",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "82": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "총 2글자가 있었을 것으로 추정"
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {}
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "홍승우",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "8": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "이후로 멸실된 여러 글자가 있는 것으로 추정"
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "105": {
+            "type": "고리점"
+          },
+          "148": {
+            "type": "고리점"
+          },
+          "169": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "이성호",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "8": {
+            "character": "艹",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "60": {
+            "character": "旵",
+            "sound": "참",
+            "meaning": "햇살 비칠",
+            "desc": "판독이 확실치 않음"
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "82": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "총 2글자가 있었을 것으로 추정"
+          },
+          "130": {
+            "character": "智",
+            "sound": "지",
+            "meaning": "슬기",
+            "desc": ""
+          },
+          "136": {
+            "character": "乎",
+            "sound": "호",
+            "meaning": "어조사",
+            "desc": ""
+          },
+          "140": {
+            "character": "介",
+            "sound": "개",
+            "meaning": "낄",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "145": {
+            "character": "休",
+            "sound": "휴",
+            "meaning": "쉴",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "166": {
+            "character": "代",
+            "sound": "대",
+            "meaning": "대신할",
+            "desc": "보이는대로 代일 가능성"
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": "마지막 글자가 없는 것으로 봄"
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "105": {
+            "type": "고리점"
+          },
+          "147": {
+            "type": "고리점"
+          },
+          "172": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "이경섭",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "글자가 몇 개 있었는지 알 수 없다"
+          },
+          "5": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "8": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "이후로 멸실된 여러 글자가 있는 것으로 추정"
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "125": {
+            "character": "比",
+            "sound": "비",
+            "meaning": "견줄",
+            "desc": ""
+          },
+          "130": {
+            "character": "智",
+            "sound": "지",
+            "meaning": "슬기",
+            "desc": ""
+          },
+          "131": {
+            "character": "奈",
+            "sound": "나",
+            "meaning": "어찌",
+            "desc": ""
+          },
+          "136": {
+            "character": "步",
+            "sound": "보",
+            "meaning": "걸을",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "188": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "147": {
+            "type": "고리점"
+          },
+          "169": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "권인한",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "3글자 가능성도 있다"
+          },
+          "6": {
+            "character": "斯",
+            "sound": "사",
+            "meaning": "이",
+            "desc": ""
+          },
+          "8": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "27": {
+            "character": "爾",
+            "sound": "이",
+            "meaning": "너",
+            "desc": ""
+          },
+          "38": {
+            "character": "夲",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "54": {
+            "character": "彌",
+            "sound": "미",
+            "meaning": "미륵",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "130": {
+            "character": "智",
+            "sound": "지",
+            "meaning": "슬기",
+            "desc": ""
+          },
+          "188": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "193": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "169": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "여호규",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "年 으로 추정"
+          },
+          "4": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "2글자 가능성 있다"
+          },
+          "5": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "확실치 않으나 中으로 판독"
+          },
+          "6": {
+            "character": "斯",
+            "sound": "사",
+            "meaning": "이",
+            "desc": ""
+          },
+          "8": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "34": {
+            "character": "牟",
+            "sound": "모",
+            "meaning": "소 우는 소리",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "136": {
+            "character": "岳",
+            "sound": "악",
+            "meaning": "큰 산",
+            "desc": ""
+          },
+          "139": {
+            "character": "走",
+            "sound": "주",
+            "meaning": "달릴",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          },
+          "175": {
+            "character": "卑",
+            "sound": "비",
+            "meaning": "낮을",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "15": {
+            "type": "모점"
+          },
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "105": {
+            "type": "고리점"
+          },
+          "113": {
+            "type": "모점"
+          },
+          "147": {
+            "type": "고리점"
+          },
+          "169": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "197": {
+            "type": "고리점"
+          },
+          "203": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "김병준",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "34": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "130": {
+            "character": "智",
+            "sound": "지",
+            "meaning": "슬기",
+            "desc": ""
+          },
+          "131": {
+            "character": "奈",
+            "sound": "나",
+            "meaning": "어찌",
+            "desc": ""
+          },
+          "136": {
+            "character": "步",
+            "sound": "보",
+            "meaning": "걸을",
+            "desc": ""
+          },
+          "188": {
+            "character": "與",
+            "sound": "여",
+            "meaning": "더불",
+            "desc": ""
+          },
+          "203": {
+            "character": "立",
+            "sound": "립",
+            "meaning": "설",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "9": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "148": {
+            "type": "고리점"
+          },
+          "179": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "203": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "김창석",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "3": {
+            "character": "",
+            "sound": "",
+            "meaning": "",
+            "desc": "3글자 가능성도 있다"
+          },
+          "8": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": "글자인지 아닌지 판독 어렵다"
+          },
+          "34": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "147": {
+            "character": "昔",
+            "sound": "석",
+            "meaning": "예",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "37": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "169": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          },
+          "197": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "하일식",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "8": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          },
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "108": {
+            "character": "于",
+            "sound": "우",
+            "meaning": "또",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "147": {
+            "character": "書",
+            "sound": "서",
+            "meaning": "글",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "8": {
+            "type": "고리점"
+          },
+          "24": {
+            "type": "고리점"
+          },
+          "37": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "143": {
+            "type": "고리점"
+          },
+          "172": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    },
+    {
+      "articles": [
+        {
+          "author": "양자량",
+          "doi": "",
+          "title": "",
+          "published": 2022,
+          "publisher": "",
+          "no": ""
+        }
+      ],
+      "study": {
+        "reading": {
+          "38": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "68": {
+            "character": "末",
+            "sound": "말",
+            "meaning": "끝",
+            "desc": ""
+          },
+          "70": {
+            "character": "本",
+            "sound": "본",
+            "meaning": "근본",
+            "desc": ""
+          },
+          "92": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "114": {
+            "character": "蘇",
+            "sound": "소",
+            "meaning": "되살아날",
+            "desc": ""
+          },
+          "144": {
+            "character": "珎",
+            "sound": "진",
+            "meaning": "보배",
+            "desc": ""
+          },
+          "203": {
+            "character": "□",
+            "sound": "",
+            "meaning": "",
+            "desc": ""
+          }
+        },
+        "punctuation": {
+          "24": {
+            "type": "고리점"
+          },
+          "47": {
+            "type": "고리점"
+          },
+          "88": {
+            "type": "고리점"
+          },
+          "105": {
+            "type": "고리점"
+          },
+          "147": {
+            "type": "고리점"
+          },
+          "190": {
+            "type": "고리점"
+          }
+        }
+      }
+    }
+  ]
+}
